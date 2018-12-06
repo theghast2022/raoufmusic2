@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
+token= NTIwMjI5MDU1MTc0Mjc5MTc4.Duq03g.ip5WqcH5OqvR3lD7MsDmzMckhaE
+owner= 482144973471612949 
+prefix= s2
+game= ❥S̷k̷u̷l̷l̷  N̷e̷t̷w̷o̷r̷k̷ ❥ Music
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
